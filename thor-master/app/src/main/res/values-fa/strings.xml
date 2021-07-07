@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">تور</string>
+    <string name="channel_name">اعلانات مربوط به حافظه</string>
+    <string name="channel_description">برای اعلانات مربوط به بارگذاری و دانلود</string>
+    <string name="share">اشتراک‌گذاری</string>
+    <string name="no_activity_found_to_handle_uri">هیچ اپلیکیشنی پیدا نشد که این نوع فایل را پشتیبانی کند</string>
+    <string name="download_failed">دانلود ناموفق برای \"%1$s\"</string>
+    <string name="download_complete">دانلود موفق برای \"%1$s\"</string>
+    <string name="search">جستجو</string>
+    <string name="file_has_no_write_permission"> \"اجازه‌ی اعمال تغییرات\" برای این آدرس وجود ندارد</string>
+    <string name="download_title">دانلود داده</string>
+    <string name="bookmarks">نشانک</string>
+    <string name="bookmark">تغییر نشانک</string>
+    <string name="bookmark_added">نشانک \"%1$s\" اضافه شد</string>
+    <string name="bookmark_removed">نشانک \"%1$s\" حذف شد</string>
+    <string name="share_link">اشتراک‌گذاری پیوند</string>
+    <string name="find_page">پیدا کردن در صفحه</string>
+    <string name="history">تاریخچه</string>
+
+    <string name="documentation">مستندات</string>
+    <string name="clear_browser_data">پاک کردن حافظه موقت، کوکی‌ها، تاریخچه، رمز عبورها</string>
+    <string name="password">رمز عبور</string>
+    <string name="user_name">نام کاربری</string>
+    <string name="authentication">احراز هویت</string>
+    <string name="downloads">دانلودها</string>
+    <string name="enter_url">اسکن‌کردن آدرس اینترنتی یا ورودی سرچ</string>
+    <string name="action_cleanup">پاک کردن داده‌های مرورگر</string>
+    <string name="next_page">صفحه‌ی بعد</string>
+    <string name="reload_page">بارگیری مجدد صفحه</string>
+    <string name="download">دانلود</string>
+    <string name="more_options">گزینه‌های بیشتر</string>
+
+    <string name="enable_javascript">فعال‌سازی جاوااسکریپت</string>
+    <string name="redirect_url_support">پشتیبانی تغییر مسیر آدرس</string>
+    <string name="settings">تنظیمات</string>
+    <string name="concurrency_value">هم‌روندی (دی‌اچ‌تی) [%1$s]</string>
+    <string name="restart_config_changed">به علت تغییرات در پیکربندی، لطفاً اپلیکیشن را ببندید، سپس مجدداً آن را باز کنید</string>
+    <string name="redirect_index_support">تغییر مسیر به HTML پیشفرض</string>
+    <string name="javascript_text">وقتی جاوااسکریپت غیرفعال باشد ممکن است سایت‌های زیادی درست کار نکنند</string>
+    <string name="redirect_url_support_text">وقتی این گزینه فعال باشد ، آدرس‌هایی که به محتوای IPFS یا IPNS مراجعه می کنند ، به طور خودکار به گره محلی IPFS هدایت می شوند. در حال حاضر فقط برای آدرس‌های به فرم https: // xxx / ipfs /… یا https: // xxx / ipns /… این اتفاق می‌افتد</string>
+    <string name="redirect_index_support_text">اگر این گزینه فعال باشد ، گره محلی سعی می کند یک فایل شاخص HTML را برای یک آدرس ipfs یا ipns داده شده پیدا کند ، اگر مشخص نشده باشد.</string>
+    <string name="concurrency_text">هر چه عدد هم‌روندی بیشتر باشد، گره‌ی محلی با شدت بیشتری محتوای درخواستی را جستجو می‌کند. طبعاً انرژی بیشتری هم صرف می‌شود.</string>
+    <string name="information">اطلاعات</string>
+    <string name="url_access">کد کیوآر حاوی آدرس اینترنتی وبسایت فعلی است</string>
+    <string name="scan_url">اسکن آدرس اینترنتی</string>
+    <string name="permission_camera_denied">اجازه‌ی دوربین</string>
+    <string name="feature_camera_required">به دوربین نیاز است</string>
+    <string name="codec_not_supported">کد کیوآر پشتیبانی نشده است</string>
+
+</resources>
+
+

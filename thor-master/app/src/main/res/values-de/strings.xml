@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Thor</string>
+    <string name="channel_name">Daten Benachrichtigung</string>
+    <string name="channel_description">Benachrichtigungen für Up- und Downloads</string>
+    <string name="share">Teilen</string>
+
+    <string name="search">Suche</string>
+    <string name="no_activity_found_to_handle_uri">Keine Applikation gefunden, welche die Datei verabeiten kann.</string>
+    <string name="download_failed">Download schlug fehl für \"%1$s\"</string>
+    <string name="download_complete">Download abgeschlossen für \"%1$s\"</string>
+    <string name="file_has_no_write_permission">Keine \"Write Permission\" für den Speicherort</string>
+
+    <string name="download_title">Download Daten</string>
+    <string name="bookmarks">Lesezeichen</string>
+    <string name="bookmark">Lesezeichen hinzufügen oder entfernen</string>
+    <string name="bookmark_added">Lesezeichen \"%1$s\" hinzugefügt</string>
+    <string name="bookmark_removed">Lesezeichen \"%1$s\" entfernt</string>
+    <string name="share_link">Share Link</string>
+    <string name="find_page">Auf Seite suchen</string>
+    <string name="history">Verlauf</string>
+
+    <string name="documentation">Dokumentation</string>
+    <string name="clear_browser_data">Lösche Cache, Cookies, Verlauf, Passwörter, etc…</string>
+    <string name="password">Passwort</string>
+    <string name="user_name">Benutzername</string>
+    <string name="authentication">Authentication</string>
+    <string name="downloads">Downloads</string>
+
+
+    <string name="enter_url">Scan-URL oder Sucheingabe</string>
+    <string name="action_cleanup">Browserdaten löschen</string>
+    <string name="next_page">Nächste Seite</string>
+    <string name="reload_page">Reload Seite</string>
+    <string name="download">Download</string>
+    <string name="more_options">More options</string>
+
+
+    <string name="enable_javascript">Enable Javascript</string>
+    <string name="redirect_url_support">Redirect URL Support</string>
+    <string name="settings">Einstellungen</string>
+    <string name="concurrency_value">Concurrency (DHT) [%1$s]</string>
+    <string name="restart_config_changed">Bitte starte die Applikation neu, da sich die Konfiguration geändert hat.</string>
+    <string name="redirect_index_support">Redirect Index HTML</string>
+    <string name="javascript_text">Wenn Javascript deaktiviert ist, funktionieren viele Websites möglicherweise nicht richtig.</string>
+    <string name="redirect_url_support_text">Wenn diese Option aktiviert ist, werden URLs, die auf IPFS- oder IPNS-Inhalte verweisen, automatisch auf den lokalen IPFS-Knoten umgeleitet. Derzeit werden nur URLs der Form https://xxx/ipfs/… oder https://xxx/ipns/… umgeleitet.</string>
+    <string name="redirect_index_support_text">Wenn diese Option aktiviert ist, dann versucht der lokale Knoten zu einer angegeben ipfs oder ipns URL eine HTML index Datei zu finden, sofern sie nicht angeben wurde.</string>
+    <string name="concurrency_text">Um so höher der Concurrency Wert ist, umso aggressiver versucht der lokale Knoten angeforderte IPFS Inhalte zu finden. Dabei wird auch mehr Energy verbraucht.</string>
+    <string name="information">Information</string>
+    <string name="url_access">Der QR-Code enthält die URL der aktuellen Website</string>
+    <string name="scan_url">Scan URL</string>
+    <string name="permission_camera_denied">Permission Kamera</string>
+    <string name="feature_camera_required">Feature Kamera benötigt</string>
+    <string name="codec_not_supported">Nicht unterstützter QR-Code</string>
+</resources>
